@@ -1,0 +1,7 @@
+common.my_page:
+  path: '/mypage/page'
+  defaults:
+    _controller: '\Drupal\common\Controller\CommonController::myPage'
+    _title: 'My first page in Drupal8'
+  requirements:
+    _permission: 'access content'

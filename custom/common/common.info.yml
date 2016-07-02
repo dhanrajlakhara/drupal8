@@ -1,0 +1,6 @@
+name: Commom Module
+type: module
+description: 'Basic functions'
+package: Custom
+version: 8.x
+core: 8.x
